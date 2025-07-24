@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+venv/
+.pylintrc
+__pycache__/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore Python files
+db.sqlite3
+media/
